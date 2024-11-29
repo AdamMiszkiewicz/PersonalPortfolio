@@ -9,8 +9,8 @@ The original project is licensed under the [MIT License](https://github.com/Star
 
 ## Features 🔥
 - Personal information section 🧑‍💼
-- Professional experience and education 📚
-- Skill and interests display 💪
+- Professional experience 📚
+- Skill and Certifications display 💪
 - Fully responsive layout 📱💻
 
 ## License 📄
